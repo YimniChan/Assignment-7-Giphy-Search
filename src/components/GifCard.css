@@ -1,0 +1,12 @@
+.image{
+    width: 200px;
+    height: 200px;
+
+}
+
+
+.imageDetail{
+    width: 180px;
+    height: 180px;
+    object-fit: contain
+}
